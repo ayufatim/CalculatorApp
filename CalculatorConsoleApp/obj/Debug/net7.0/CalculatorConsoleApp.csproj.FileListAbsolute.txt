@@ -1,0 +1,15 @@
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net7.0\CalculatorConsoleApp.exe
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net7.0\CalculatorConsoleApp.deps.json
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net7.0\CalculatorConsoleApp.runtimeconfig.json
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net7.0\CalculatorConsoleApp.dll
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\net7.0\CalculatorConsoleApp.pdb
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.csproj.AssemblyReference.cache
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.AssemblyInfoInputs.cache
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.AssemblyInfo.cs
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.dll
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net7.0\refint\CalculatorConsoleApp.dll
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.pdb
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net7.0\CalculatorConsoleApp.genruntimeconfig.cache
+D:\PRAKTIKUM PEMROGRAMAN\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\net7.0\ref\CalculatorConsoleApp.dll
